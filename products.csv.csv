@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice
+1,Sofa_1,Furniture,Sofa,Adidas,1242.57
+2,Table_2,Furniture,Table,Puma,1851.31
+3,Table_3,Furniture,Table,Dell,4737.56
+4,Shirt_4,Fashion,Shirt,Adidas,2338.22
+5,Chair_5,Furniture,Chair,Sony,2310.33
+6,Smartwatch_6,Electronics,Smartwatch,Sony,4760.97
+7,Jeans_7,Fashion,Jeans,Adidas,4721.2
+8,Smartphone_8,Electronics,Smartphone,LG,2880.68
+9,Laptop_9,Electronics,Laptop,Dell,1427.56
+10,Tennis Racket_10,Sports,Tennis Racket,Samsung,981.22
+11,Tablet_11,Electronics,Tablet,HP,2357.78
+12,Football_12,Sports,Football,HP,4799.12
+13,Smartwatch_13,Electronics,Smartwatch,Puma,1959.69
+14,Laptop_14,Electronics,Laptop,Puma,4334.32
+15,Jeans_15,Fashion,Jeans,HP,3582.59
+16,Jeans_16,Fashion,Jeans,Samsung,1373.84
+17,Tablet_17,Electronics,Tablet,Adidas,4627.54
+18,Table_18,Furniture,Table,Samsung,178.03
+19,Jeans_19,Fashion,Jeans,Samsung,3911.9
+20,Microwave_20,Home Appliances,Microwave,Apple,3488.56
+21,Chair_21,Furniture,Chair,Nike,1104.63
+22,Tennis Racket_22,Sports,Tennis Racket,Apple,655.89
+23,Laptop_23,Electronics,Laptop,Ikea,1764.59
+24,Table_24,Furniture,Table,HP,2713.68
+25,Laptop_25,Electronics,Laptop,Samsung,4470.15
+26,Football_26,Sports,Football,Nike,3767.53
+27,Shirt_27,Fashion,Shirt,Dell,3078.3
+28,Refrigerator_28,Home Appliances,Refrigerator,Puma,3882.58
+29,Refrigerator_29,Home Appliances,Refrigerator,Sony,2614.4
+30,Tennis Racket_30,Sports,Tennis Racket,Apple,4626.62
+31,Microwave_31,Home Appliances,Microwave,HP,4617.66
+32,Sofa_32,Furniture,Sofa,Sony,3231.85
+33,Jeans_33,Fashion,Jeans,LG,3907.15
+34,Shirt_34,Fashion,Shirt,Sony,4493.96
+35,Shirt_35,Fashion,Shirt,Puma,3662.61
+36,Smartwatch_36,Electronics,Smartwatch,Dell,3365.9
+37,Smartwatch_37,Electronics,Smartwatch,Ikea,923.86
+38,Sofa_38,Furniture,Sofa,HP,726.82
+39,Refrigerator_39,Home Appliances,Refrigerator,Samsung,2221.9
+40,Jacket_40,Fashion,Jacket,Adidas,2018.7
+41,Shirt_41,Fashion,Shirt,Apple,4812.07
+42,Football_42,Sports,Football,Puma,4803.26
+43,Shirt_43,Fashion,Shirt,HP,3511.63
+44,Washing Machine_44,Home Appliances,Washing Machine,Samsung,3822.47
+45,Football_45,Sports,Football,Nike,3211.8
+46,Smartphone_46,Electronics,Smartphone,Apple,2512.32
+47,Shirt_47,Fashion,Shirt,Ikea,4819.44
+48,Microwave_48,Home Appliances,Microwave,Ikea,2524.08
+49,Cricket Bat_49,Sports,Cricket Bat,HP,2824.55
+50,Shirt_50,Fashion,Shirt,Adidas,3090.15
+51,Jacket_51,Fashion,Jacket,Dell,3160.87
+52,Table_52,Furniture,Table,Adidas,1199.0
+53,Washing Machine_53,Home Appliances,Washing Machine,Nike,746.35
+54,Smartphone_54,Electronics,Smartphone,LG,3204.8
+55,Jacket_55,Fashion,Jacket,Nike,2238.99
+56,Tennis Racket_56,Sports,Tennis Racket,Dell,1660.9
+57,Cricket Bat_57,Sports,Cricket Bat,Puma,1591.62
+58,Jeans_58,Fashion,Jeans,Dell,4838.78
+59,Jacket_59,Fashion,Jacket,Nike,1950.99
+60,Table_60,Furniture,Table,Apple,3108.02
+61,Sofa_61,Furniture,Sofa,Dell,1668.31
+62,Laptop_62,Electronics,Laptop,Adidas,3623.8
+63,Chair_63,Furniture,Chair,Puma,2453.45
+64,Tablet_64,Electronics,Tablet,Samsung,869.25
+65,Laptop_65,Electronics,Laptop,LG,4134.02
+66,Laptop_66,Electronics,Laptop,HP,876.32
+67,Sofa_67,Furniture,Sofa,Adidas,1806.14
+68,Laptop_68,Electronics,Laptop,Samsung,3992.31
+69,Jacket_69,Fashion,Jacket,Sony,4718.51
+70,Cricket Bat_70,Sports,Cricket Bat,Adidas,876.04
+71,Table_71,Furniture,Table,Nike,1136.71
+72,Refrigerator_72,Home Appliances,Refrigerator,Apple,2093.05
+73,Laptop_73,Electronics,Laptop,Apple,4005.67
+74,Chair_74,Furniture,Chair,Ikea,778.06
+75,Football_75,Sports,Football,Sony,1699.7
+76,Jacket_76,Fashion,Jacket,Sony,546.38
+77,Jacket_77,Fashion,Jacket,Nike,1478.39
+78,Cricket Bat_78,Sports,Cricket Bat,HP,698.44
+79,Chair_79,Furniture,Chair,Samsung,3787.18
+80,Laptop_80,Electronics,Laptop,Nike,803.23
+81,Chair_81,Furniture,Chair,Samsung,2520.25
+82,Chair_82,Furniture,Chair,Sony,1542.13
+83,Table_83,Furniture,Table,HP,212.84
+84,Washing Machine_84,Home Appliances,Washing Machine,Apple,2312.64
+85,Tennis Racket_85,Sports,Tennis Racket,Puma,4377.21
+86,Shirt_86,Fashion,Shirt,Adidas,3141.96
+87,Table_87,Furniture,Table,Adidas,3337.99
+88,Jeans_88,Fashion,Jeans,Nike,3215.63
+89,Sofa_89,Furniture,Sofa,Puma,968.84
+90,Cricket Bat_90,Sports,Cricket Bat,LG,785.45
+91,Refrigerator_91,Home Appliances,Refrigerator,Apple,2343.51
+92,Washing Machine_92,Home Appliances,Washing Machine,LG,3635.99
+93,Chair_93,Furniture,Chair,Dell,3160.11
+94,Football_94,Sports,Football,Ikea,627.29
+95,Jeans_95,Fashion,Jeans,Adidas,2261.94
+96,Sofa_96,Furniture,Sofa,Apple,1040.33
+97,Football_97,Sports,Football,HP,2374.2
+98,Jeans_98,Fashion,Jeans,Puma,2650.87
+99,Cricket Bat_99,Sports,Cricket Bat,HP,4789.37
+100,Cricket Bat_100,Sports,Cricket Bat,Sony,3546.68
+101,Cricket Bat_101,Sports,Cricket Bat,Apple,1337.48
+102,Tablet_102,Electronics,Tablet,Sony,112.65
+103,Football_103,Sports,Football,HP,1443.95
+104,Jeans_104,Fashion,Jeans,Dell,3490.81
+105,Smartwatch_105,Electronics,Smartwatch,Samsung,2458.24
+106,Smartwatch_106,Electronics,Smartwatch,Samsung,1487.68
+107,Cricket Bat_107,Sports,Cricket Bat,Puma,4194.74
+108,Refrigerator_108,Home Appliances,Refrigerator,HP,2969.22
+109,Jacket_109,Fashion,Jacket,Puma,1209.22
+110,Washing Machine_110,Home Appliances,Washing Machine,Puma,2517.64
+111,Washing Machine_111,Home Appliances,Washing Machine,Puma,3857.52
+112,Washing Machine_112,Home Appliances,Washing Machine,Nike,1097.45
+113,Tennis Racket_113,Sports,Tennis Racket,Puma,1639.23
+114,Smartwatch_114,Electronics,Smartwatch,Nike,4184.46
+115,Cricket Bat_115,Sports,Cricket Bat,LG,3392.48
+116,Sofa_116,Furniture,Sofa,HP,2059.93
+117,Microwave_117,Home Appliances,Microwave,Dell,53.37
+118,Jacket_118,Fashion,Jacket,Nike,2234.76
+119,Jeans_119,Fashion,Jeans,Adidas,907.69
+120,Tablet_120,Electronics,Tablet,Adidas,3597.73
+121,Sofa_121,Furniture,Sofa,Ikea,2834.01
+122,Jacket_122,Fashion,Jacket,Sony,4107.99
+123,Football_123,Sports,Football,Ikea,1027.71
+124,Smartphone_124,Electronics,Smartphone,Nike,759.84
+125,Microwave_125,Home Appliances,Microwave,Nike,130.32
+126,Chair_126,Furniture,Chair,Nike,1613.09
+127,Jeans_127,Fashion,Jeans,Dell,2688.4
+128,Washing Machine_128,Home Appliances,Washing Machine,Puma,3341.54
+129,Microwave_129,Home Appliances,Microwave,LG,3642.11
+130,Table_130,Furniture,Table,Adidas,4974.25
+131,Football_131,Sports,Football,Nike,2357.3
+132,Tennis Racket_132,Sports,Tennis Racket,Apple,2033.44
+133,Smartwatch_133,Electronics,Smartwatch,Dell,2756.96
+134,Shirt_134,Fashion,Shirt,Nike,2997.81
+135,Tablet_135,Electronics,Tablet,Nike,4034.69
+136,Football_136,Sports,Football,Adidas,1231.92
+137,Sofa_137,Furniture,Sofa,Sony,2947.28
+138,Laptop_138,Electronics,Laptop,HP,3171.07
+139,Sofa_139,Furniture,Sofa,Ikea,3514.86
+140,Football_140,Sports,Football,Adidas,773.62
+141,Microwave_141,Home Appliances,Microwave,Dell,3059.65
+142,Smartphone_142,Electronics,Smartphone,Adidas,4982.09
+143,Microwave_143,Home Appliances,Microwave,Ikea,4738.87
+144,Chair_144,Furniture,Chair,HP,1590.06
+145,Laptop_145,Electronics,Laptop,Ikea,2184.79
+146,Smartwatch_146,Electronics,Smartwatch,Nike,1448.21
+147,Cricket Bat_147,Sports,Cricket Bat,Apple,3315.2
+148,Chair_148,Furniture,Chair,Puma,1451.59
+149,Laptop_149,Electronics,Laptop,Sony,4738.39
+150,Microwave_150,Home Appliances,Microwave,Adidas,3798.11
+151,Tennis Racket_151,Sports,Tennis Racket,LG,4282.63
+152,Refrigerator_152,Home Appliances,Refrigerator,Apple,819.18
+153,Chair_153,Furniture,Chair,HP,3911.51
+154,Refrigerator_154,Home Appliances,Refrigerator,Samsung,1775.08
+155,Jacket_155,Fashion,Jacket,Ikea,2510.58
+156,Smartwatch_156,Electronics,Smartwatch,Nike,1549.66
+157,Smartphone_157,Electronics,Smartphone,Sony,2522.27
+158,Washing Machine_158,Home Appliances,Washing Machine,Dell,4224.63
+159,Tablet_159,Electronics,Tablet,Adidas,3051.39
+160,Jeans_160,Fashion,Jeans,Sony,3172.26
+161,Sofa_161,Furniture,Sofa,Dell,2933.09
+162,Jeans_162,Fashion,Jeans,HP,370.22
+163,Football_163,Sports,Football,HP,1750.73
+164,Jacket_164,Fashion,Jacket,Dell,1613.73
+165,Jeans_165,Fashion,Jeans,Puma,331.84
+166,Cricket Bat_166,Sports,Cricket Bat,Apple,1581.14
+167,Washing Machine_167,Home Appliances,Washing Machine,Nike,3513.93
+168,Microwave_168,Home Appliances,Microwave,Sony,605.16
+169,Microwave_169,Home Appliances,Microwave,HP,2108.9
+170,Sofa_170,Furniture,Sofa,Samsung,2235.4
+171,Tablet_171,Electronics,Tablet,HP,471.08
+172,Football_172,Sports,Football,Adidas,3491.94
+173,Table_173,Furniture,Table,Adidas,2704.32
+174,Chair_174,Furniture,Chair,Adidas,4943.02
+175,Sofa_175,Furniture,Sofa,Puma,3906.61
+176,Jeans_176,Fashion,Jeans,Nike,374.93
+177,Refrigerator_177,Home Appliances,Refrigerator,Apple,3622.51
+178,Shirt_178,Fashion,Shirt,Sony,4286.94
+179,Microwave_179,Home Appliances,Microwave,LG,3834.81
+180,Chair_180,Furniture,Chair,Samsung,234.9
+181,Smartphone_181,Electronics,Smartphone,Samsung,1679.3
+182,Tennis Racket_182,Sports,Tennis Racket,Dell,696.21
+183,Football_183,Sports,Football,Puma,1470.96
+184,Sofa_184,Furniture,Sofa,Dell,1716.88
+185,Jacket_185,Fashion,Jacket,Samsung,4996.38
+186,Microwave_186,Home Appliances,Microwave,Adidas,582.79
+187,Tablet_187,Electronics,Tablet,Dell,3539.03
+188,Smartwatch_188,Electronics,Smartwatch,Puma,3070.88
+189,Smartwatch_189,Electronics,Smartwatch,Sony,1502.71
+190,Jacket_190,Fashion,Jacket,LG,3288.18
+191,Tennis Racket_191,Sports,Tennis Racket,Dell,4205.76
+192,Jacket_192,Fashion,Jacket,Adidas,4100.83
+193,Jacket_193,Fashion,Jacket,Dell,2663.24
+194,Table_194,Furniture,Table,Samsung,3595.13
+195,Refrigerator_195,Home Appliances,Refrigerator,Ikea,2739.11
+196,Shirt_196,Fashion,Shirt,Nike,3825.81
+197,Sofa_197,Furniture,Sofa,Puma,3198.01
+198,Jeans_198,Fashion,Jeans,Sony,401.08
+199,Jeans_199,Fashion,Jeans,Samsung,4058.85
+200,Jacket_200,Fashion,Jacket,Nike,1741.85
+201,Jeans_201,Fashion,Jeans,Ikea,4567.36
+202,Chair_202,Furniture,Chair,Sony,1033.76
+203,Chair_203,Furniture,Chair,HP,237.65
+204,Jacket_204,Fashion,Jacket,LG,4009.7
+205,Cricket Bat_205,Sports,Cricket Bat,Sony,2609.41
+206,Sofa_206,Furniture,Sofa,Puma,2116.15
+207,Sofa_207,Furniture,Sofa,Sony,733.74
+208,Microwave_208,Home Appliances,Microwave,Ikea,3319.63
+209,Jacket_209,Fashion,Jacket,Sony,249.65
+210,Football_210,Sports,Football,LG,594.56
+211,Sofa_211,Furniture,Sofa,Puma,2670.13
+212,Microwave_212,Home Appliances,Microwave,Puma,2235.94
+213,Chair_213,Furniture,Chair,HP,3376.42
+214,Sofa_214,Furniture,Sofa,Nike,4158.38
+215,Microwave_215,Home Appliances,Microwave,Puma,2623.71
+216,Refrigerator_216,Home Appliances,Refrigerator,Puma,1600.63
+217,Football_217,Sports,Football,Samsung,2568.0
+218,Sofa_218,Furniture,Sofa,Ikea,835.9
+219,Sofa_219,Furniture,Sofa,Dell,1239.11
+220,Shirt_220,Fashion,Shirt,Adidas,2030.67
+221,Washing Machine_221,Home Appliances,Washing Machine,Apple,3558.52
+222,Jeans_222,Fashion,Jeans,Puma,4214.25
+223,Washing Machine_223,Home Appliances,Washing Machine,Apple,2524.51
+224,Shirt_224,Fashion,Shirt,Sony,2206.34
+225,Jeans_225,Fashion,Jeans,LG,1824.37
+226,Cricket Bat_226,Sports,Cricket Bat,Nike,2780.12
+227,Refrigerator_227,Home Appliances,Refrigerator,Adidas,1119.28
+228,Chair_228,Furniture,Chair,Adidas,3126.16
+229,Football_229,Sports,Football,Sony,788.65
+230,Jeans_230,Fashion,Jeans,Apple,3439.31
+231,Smartphone_231,Electronics,Smartphone,Dell,1536.94
+232,Chair_232,Furniture,Chair,Puma,374.32
+233,Jacket_233,Fashion,Jacket,Nike,3437.82
+234,Refrigerator_234,Home Appliances,Refrigerator,Samsung,2066.49
+235,Table_235,Furniture,Table,Samsung,2435.02
+236,Sofa_236,Furniture,Sofa,Apple,2625.11
+237,Football_237,Sports,Football,Adidas,449.47
+238,Washing Machine_238,Home Appliances,Washing Machine,Puma,4154.65
+239,Football_239,Sports,Football,Samsung,2999.32
+240,Washing Machine_240,Home Appliances,Washing Machine,Ikea,3434.48
+241,Laptop_241,Electronics,Laptop,Sony,2405.67
+242,Smartwatch_242,Electronics,Smartwatch,Adidas,778.17
+243,Washing Machine_243,Home Appliances,Washing Machine,Samsung,3345.48
+244,Washing Machine_244,Home Appliances,Washing Machine,Apple,144.99
+245,Refrigerator_245,Home Appliances,Refrigerator,Adidas,3144.73
+246,Refrigerator_246,Home Appliances,Refrigerator,Puma,4565.15
+247,Jacket_247,Fashion,Jacket,Adidas,1087.99
+248,Smartwatch_248,Electronics,Smartwatch,Dell,2100.9
+249,Tennis Racket_249,Sports,Tennis Racket,Nike,1973.79
+250,Tablet_250,Electronics,Tablet,Adidas,2995.36
+251,Microwave_251,Home Appliances,Microwave,Samsung,2651.0
+252,Football_252,Sports,Football,HP,2230.96
+253,Refrigerator_253,Home Appliances,Refrigerator,Apple,4171.85
+254,Smartphone_254,Electronics,Smartphone,Adidas,1084.16
+255,Jacket_255,Fashion,Jacket,Nike,133.19
+256,Sofa_256,Furniture,Sofa,Ikea,2418.98
+257,Microwave_257,Home Appliances,Microwave,LG,779.39
+258,Jacket_258,Fashion,Jacket,LG,4667.93
+259,Laptop_259,Electronics,Laptop,Dell,1712.31
+260,Smartphone_260,Electronics,Smartphone,Puma,2472.93
+261,Sofa_261,Furniture,Sofa,LG,4385.1
+262,Jacket_262,Fashion,Jacket,HP,3133.37
+263,Table_263,Furniture,Table,Sony,1760.14
+264,Jeans_264,Fashion,Jeans,Sony,2585.41
+265,Jacket_265,Fashion,Jacket,Sony,2852.87
+266,Washing Machine_266,Home Appliances,Washing Machine,Apple,4313.97
+267,Refrigerator_267,Home Appliances,Refrigerator,Samsung,2049.54
+268,Jacket_268,Fashion,Jacket,Ikea,2148.43
+269,Tennis Racket_269,Sports,Tennis Racket,Nike,4878.64
+270,Table_270,Furniture,Table,HP,1617.04
+271,Football_271,Sports,Football,Puma,3016.53
+272,Chair_272,Furniture,Chair,Adidas,1552.4
+273,Washing Machine_273,Home Appliances,Washing Machine,HP,613.42
+274,Tennis Racket_274,Sports,Tennis Racket,Nike,2146.26
+275,Smartwatch_275,Electronics,Smartwatch,Dell,869.13
+276,Smartphone_276,Electronics,Smartphone,Puma,1031.22
+277,Chair_277,Furniture,Chair,Puma,4177.34
+278,Tablet_278,Electronics,Tablet,Sony,1565.97
+279,Tennis Racket_279,Sports,Tennis Racket,Dell,3831.46
+280,Jeans_280,Fashion,Jeans,Dell,2629.68
+281,Microwave_281,Home Appliances,Microwave,Dell,4902.81
+282,Jacket_282,Fashion,Jacket,Puma,3374.17
+283,Jeans_283,Fashion,Jeans,Samsung,3082.58
+284,Tablet_284,Electronics,Tablet,Sony,1971.06
+285,Chair_285,Furniture,Chair,LG,4559.28
+286,Chair_286,Furniture,Chair,HP,3834.67
+287,Cricket Bat_287,Sports,Cricket Bat,Dell,911.21
+288,Chair_288,Furniture,Chair,Sony,4563.36
+289,Tennis Racket_289,Sports,Tennis Racket,Apple,4989.27
+290,Smartwatch_290,Electronics,Smartwatch,Puma,3436.21
+291,Smartphone_291,Electronics,Smartphone,Samsung,3975.97
+292,Chair_292,Furniture,Chair,Apple,1043.86
+293,Chair_293,Furniture,Chair,Puma,599.2
+294,Cricket Bat_294,Sports,Cricket Bat,LG,3613.78
+295,Jeans_295,Fashion,Jeans,Adidas,4974.4
+296,Jacket_296,Fashion,Jacket,Adidas,2573.0
+297,Table_297,Furniture,Table,Nike,3314.87
+298,Microwave_298,Home Appliances,Microwave,Apple,4754.55
+299,Cricket Bat_299,Sports,Cricket Bat,Sony,4263.95
+300,Shirt_300,Fashion,Shirt,Puma,2930.22
+301,Jeans_301,Fashion,Jeans,Sony,2772.09
+302,Microwave_302,Home Appliances,Microwave,Puma,2492.5
+303,Sofa_303,Furniture,Sofa,Puma,280.14
+304,Smartwatch_304,Electronics,Smartwatch,Samsung,2225.45
+305,Sofa_305,Furniture,Sofa,HP,2355.03
+306,Jeans_306,Fashion,Jeans,LG,4045.65
+307,Washing Machine_307,Home Appliances,Washing Machine,Puma,1269.57
+308,Cricket Bat_308,Sports,Cricket Bat,Puma,2448.38
+309,Sofa_309,Furniture,Sofa,Adidas,4167.83
+310,Football_310,Sports,Football,Samsung,565.21
+311,Shirt_311,Fashion,Shirt,Ikea,1911.32
+312,Table_312,Furniture,Table,Dell,3738.45
+313,Smartwatch_313,Electronics,Smartwatch,HP,1278.81
+314,Washing Machine_314,Home Appliances,Washing Machine,Adidas,2736.97
+315,Table_315,Furniture,Table,Apple,3613.79
+316,Sofa_316,Furniture,Sofa,Samsung,3233.54
+317,Sofa_317,Furniture,Sofa,Sony,496.96
+318,Refrigerator_318,Home Appliances,Refrigerator,Dell,4106.43
+319,Smartwatch_319,Electronics,Smartwatch,Nike,1198.83
+320,Jacket_320,Fashion,Jacket,Adidas,3017.75
+321,Refrigerator_321,Home Appliances,Refrigerator,HP,4850.43
+322,Sofa_322,Furniture,Sofa,HP,2981.75
+323,Chair_323,Furniture,Chair,Ikea,4717.34
+324,Cricket Bat_324,Sports,Cricket Bat,Sony,602.01
+325,Cricket Bat_325,Sports,Cricket Bat,Apple,4866.2
+326,Smartwatch_326,Electronics,Smartwatch,Puma,4691.01
+327,Chair_327,Furniture,Chair,HP,2974.3
+328,Tablet_328,Electronics,Tablet,Adidas,4546.5
+329,Microwave_329,Home Appliances,Microwave,HP,2450.14
+330,Tennis Racket_330,Sports,Tennis Racket,Samsung,3048.4
+331,Shirt_331,Fashion,Shirt,Nike,4720.92
+332,Jeans_332,Fashion,Jeans,Nike,3528.82
+333,Sofa_333,Furniture,Sofa,Ikea,4194.5
+334,Smartwatch_334,Electronics,Smartwatch,Adidas,3877.32
+335,Tennis Racket_335,Sports,Tennis Racket,Apple,2257.9
+336,Laptop_336,Electronics,Laptop,Puma,4888.78
+337,Washing Machine_337,Home Appliances,Washing Machine,LG,1813.67
+338,Cricket Bat_338,Sports,Cricket Bat,Samsung,3885.84
+339,Refrigerator_339,Home Appliances,Refrigerator,Apple,4993.55
+340,Chair_340,Furniture,Chair,Samsung,1483.05
+341,Sofa_341,Furniture,Sofa,Dell,4358.84
+342,Sofa_342,Furniture,Sofa,Adidas,3881.86
+343,Jeans_343,Fashion,Jeans,Ikea,4700.0
+344,Shirt_344,Fashion,Shirt,LG,3269.85
+345,Microwave_345,Home Appliances,Microwave,Puma,4418.04
+346,Smartphone_346,Electronics,Smartphone,Nike,2002.72
+347,Football_347,Sports,Football,Apple,1349.21
+348,Smartwatch_348,Electronics,Smartwatch,Dell,3753.36
+349,Washing Machine_349,Home Appliances,Washing Machine,Puma,2125.66
+350,Laptop_350,Electronics,Laptop,Puma,3993.96
+351,Jeans_351,Fashion,Jeans,LG,4499.98
+352,Shirt_352,Fashion,Shirt,Ikea,3563.53
+353,Refrigerator_353,Home Appliances,Refrigerator,Samsung,3030.81
+354,Cricket Bat_354,Sports,Cricket Bat,Sony,2242.19
+355,Cricket Bat_355,Sports,Cricket Bat,Adidas,264.79
+356,Jacket_356,Fashion,Jacket,Dell,4933.52
+357,Table_357,Furniture,Table,LG,1826.44
+358,Laptop_358,Electronics,Laptop,Dell,3536.15
+359,Football_359,Sports,Football,Sony,489.47
+360,Jeans_360,Fashion,Jeans,Samsung,624.43
+361,Washing Machine_361,Home Appliances,Washing Machine,Apple,2091.84
+362,Table_362,Furniture,Table,Samsung,1923.85
+363,Jeans_363,Fashion,Jeans,Sony,2428.17
+364,Jacket_364,Fashion,Jacket,Dell,121.9
+365,Microwave_365,Home Appliances,Microwave,Samsung,3227.57
+366,Microwave_366,Home Appliances,Microwave,HP,4171.01
+367,Chair_367,Furniture,Chair,LG,1473.46
+368,Jeans_368,Fashion,Jeans,Puma,715.68
+369,Microwave_369,Home Appliances,Microwave,Dell,1815.03
+370,Table_370,Furniture,Table,Puma,2654.96
+371,Sofa_371,Furniture,Sofa,Adidas,3639.0
+372,Microwave_372,Home Appliances,Microwave,Sony,1414.66
+373,Smartwatch_373,Electronics,Smartwatch,Samsung,2984.82
+374,Jeans_374,Fashion,Jeans,HP,4769.02
+375,Smartwatch_375,Electronics,Smartwatch,Sony,3063.61
+376,Tennis Racket_376,Sports,Tennis Racket,Puma,428.62
+377,Tennis Racket_377,Sports,Tennis Racket,Ikea,314.97
+378,Table_378,Furniture,Table,Puma,1826.54
+379,Tablet_379,Electronics,Tablet,Ikea,757.58
+380,Football_380,Sports,Football,Adidas,4230.49
+381,Refrigerator_381,Home Appliances,Refrigerator,Samsung,953.61
+382,Washing Machine_382,Home Appliances,Washing Machine,HP,1809.69
+383,Tennis Racket_383,Sports,Tennis Racket,Apple,2561.96
+384,Smartwatch_384,Electronics,Smartwatch,Dell,2937.14
+385,Tablet_385,Electronics,Tablet,Nike,2450.36
+386,Smartphone_386,Electronics,Smartphone,Apple,591.66
+387,Jacket_387,Fashion,Jacket,HP,4389.92
+388,Football_388,Sports,Football,Samsung,4305.23
+389,Microwave_389,Home Appliances,Microwave,Dell,3083.98
+390,Tablet_390,Electronics,Tablet,Puma,3777.97
+391,Football_391,Sports,Football,Dell,2482.68
+392,Smartwatch_392,Electronics,Smartwatch,Sony,671.36
+393,Refrigerator_393,Home Appliances,Refrigerator,HP,2057.92
+394,Smartphone_394,Electronics,Smartphone,Nike,1925.9
+395,Refrigerator_395,Home Appliances,Refrigerator,Sony,1317.33
+396,Laptop_396,Electronics,Laptop,Nike,3947.84
+397,Chair_397,Furniture,Chair,Nike,4780.82
+398,Tennis Racket_398,Sports,Tennis Racket,Samsung,2513.11
+399,Smartwatch_399,Electronics,Smartwatch,Sony,4170.58
+400,Jeans_400,Fashion,Jeans,Nike,4575.87
+401,Washing Machine_401,Home Appliances,Washing Machine,Ikea,2862.27
+402,Cricket Bat_402,Sports,Cricket Bat,Nike,2256.27
+403,Jacket_403,Fashion,Jacket,Nike,692.36
+404,Smartphone_404,Electronics,Smartphone,Samsung,2311.12
+405,Cricket Bat_405,Sports,Cricket Bat,LG,3770.52
+406,Microwave_406,Home Appliances,Microwave,Sony,4696.68
+407,Chair_407,Furniture,Chair,Nike,143.36
+408,Cricket Bat_408,Sports,Cricket Bat,Ikea,1529.49
+409,Cricket Bat_409,Sports,Cricket Bat,Samsung,2227.23
+410,Sofa_410,Furniture,Sofa,Sony,1465.08
+411,Tennis Racket_411,Sports,Tennis Racket,Dell,1537.61
+412,Microwave_412,Home Appliances,Microwave,Dell,351.85
+413,Table_413,Furniture,Table,Apple,2436.39
+414,Tablet_414,Electronics,Tablet,Nike,99.32
+415,Jacket_415,Fashion,Jacket,Ikea,2215.58
+416,Table_416,Furniture,Table,Samsung,1692.55
+417,Cricket Bat_417,Sports,Cricket Bat,LG,3766.91
+418,Cricket Bat_418,Sports,Cricket Bat,Sony,491.58
+419,Washing Machine_419,Home Appliances,Washing Machine,HP,2260.97
+420,Jacket_420,Fashion,Jacket,Dell,2317.49
+421,Jeans_421,Fashion,Jeans,Dell,1508.53
+422,Laptop_422,Electronics,Laptop,HP,4418.56
+423,Tablet_423,Electronics,Tablet,HP,2350.94
+424,Chair_424,Furniture,Chair,Apple,3072.28
+425,Tablet_425,Electronics,Tablet,Ikea,3814.15
+426,Jeans_426,Fashion,Jeans,Adidas,4844.53
+427,Microwave_427,Home Appliances,Microwave,Ikea,1825.08
+428,Washing Machine_428,Home Appliances,Washing Machine,Puma,1654.9
+429,Tennis Racket_429,Sports,Tennis Racket,Sony,3026.95
+430,Jeans_430,Fashion,Jeans,Samsung,3610.03
+431,Cricket Bat_431,Sports,Cricket Bat,Samsung,4635.08
+432,Cricket Bat_432,Sports,Cricket Bat,LG,4373.87
+433,Football_433,Sports,Football,Dell,655.84
+434,Tennis Racket_434,Sports,Tennis Racket,Puma,4180.83
+435,Jeans_435,Fashion,Jeans,Adidas,4879.34
+436,Smartwatch_436,Electronics,Smartwatch,Apple,1121.27
+437,Table_437,Furniture,Table,Sony,1200.35
+438,Cricket Bat_438,Sports,Cricket Bat,Dell,300.81
+439,Jacket_439,Fashion,Jacket,LG,3515.89
+440,Table_440,Furniture,Table,LG,2657.76
+441,Microwave_441,Home Appliances,Microwave,Nike,3163.23
+442,Football_442,Sports,Football,Ikea,3074.42
+443,Sofa_443,Furniture,Sofa,Nike,4819.22
+444,Microwave_444,Home Appliances,Microwave,LG,4632.27
+445,Refrigerator_445,Home Appliances,Refrigerator,Puma,119.5
+446,Chair_446,Furniture,Chair,Puma,3383.95
+447,Table_447,Furniture,Table,Samsung,4520.02
+448,Tablet_448,Electronics,Tablet,Sony,1337.78
+449,Jacket_449,Fashion,Jacket,Nike,52.31
+450,Tablet_450,Electronics,Tablet,Dell,4930.01
+451,Football_451,Sports,Football,Nike,918.48
+452,Microwave_452,Home Appliances,Microwave,Adidas,1711.04
+453,Microwave_453,Home Appliances,Microwave,Ikea,4200.35
+454,Jacket_454,Fashion,Jacket,Dell,1690.09
+455,Sofa_455,Furniture,Sofa,HP,2585.95
+456,Tennis Racket_456,Sports,Tennis Racket,Samsung,2632.82
+457,Tennis Racket_457,Sports,Tennis Racket,Sony,773.73
+458,Microwave_458,Home Appliances,Microwave,Samsung,3382.87
+459,Football_459,Sports,Football,Apple,2552.01
+460,Washing Machine_460,Home Appliances,Washing Machine,Dell,4618.21
+461,Tablet_461,Electronics,Tablet,LG,4205.03
+462,Laptop_462,Electronics,Laptop,Dell,2270.95
+463,Table_463,Furniture,Table,HP,2008.44
+464,Refrigerator_464,Home Appliances,Refrigerator,LG,2595.01
+465,Cricket Bat_465,Sports,Cricket Bat,Puma,740.25
+466,Jacket_466,Fashion,Jacket,Samsung,1584.42
+467,Tennis Racket_467,Sports,Tennis Racket,Adidas,3258.97
+468,Tablet_468,Electronics,Tablet,Apple,199.25
+469,Jeans_469,Fashion,Jeans,Puma,3743.24
+470,Cricket Bat_470,Sports,Cricket Bat,LG,734.41
+471,Microwave_471,Home Appliances,Microwave,Nike,3741.55
+472,Refrigerator_472,Home Appliances,Refrigerator,Apple,3767.55
+473,Jeans_473,Fashion,Jeans,Puma,2879.2
+474,Football_474,Sports,Football,Apple,2679.41
+475,Washing Machine_475,Home Appliances,Washing Machine,Adidas,4961.27
+476,Smartphone_476,Electronics,Smartphone,LG,3991.8
+477,Chair_477,Furniture,Chair,HP,800.95
+478,Cricket Bat_478,Sports,Cricket Bat,Ikea,4329.18
+479,Chair_479,Furniture,Chair,Samsung,3467.79
+480,Jeans_480,Fashion,Jeans,HP,3425.15
+481,Microwave_481,Home Appliances,Microwave,Puma,2955.23
+482,Washing Machine_482,Home Appliances,Washing Machine,Samsung,2359.78
+483,Washing Machine_483,Home Appliances,Washing Machine,Nike,3161.01
+484,Shirt_484,Fashion,Shirt,Dell,1633.59
+485,Football_485,Sports,Football,Sony,750.32
+486,Sofa_486,Furniture,Sofa,HP,3531.55
+487,Shirt_487,Fashion,Shirt,Nike,1567.04
+488,Shirt_488,Fashion,Shirt,Samsung,2369.55
+489,Table_489,Furniture,Table,LG,2238.73
+490,Table_490,Furniture,Table,HP,2528.29
+491,Jeans_491,Fashion,Jeans,Puma,3855.8
+492,Smartphone_492,Electronics,Smartphone,Samsung,3829.51
+493,Laptop_493,Electronics,Laptop,Ikea,654.09
+494,Football_494,Sports,Football,Puma,4577.8
+495,Smartwatch_495,Electronics,Smartwatch,Samsung,1423.22
+496,Refrigerator_496,Home Appliances,Refrigerator,HP,4194.71
+497,Table_497,Furniture,Table,Sony,1566.08
+498,Jacket_498,Fashion,Jacket,Sony,4334.32
+499,Tennis Racket_499,Sports,Tennis Racket,Sony,4107.84
+500,Refrigerator_500,Home Appliances,Refrigerator,Apple,3139.38
