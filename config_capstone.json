@@ -1,0 +1,30 @@
+[
+  {
+    "entity": "customers",
+    "file_type": "csv",
+    "relative_url": "customers.csv.csv",
+    "folder_path": "capstone_data",
+    "file_name": "customers.csv"
+  },
+  {
+    "entity": "products",
+    "file_type": "csv",
+    "relative_url": "products.csv.csv",
+    "folder_path": "capstone_data",
+    "file_name": "products.csv"
+  },
+  {
+    "entity": "orders",
+    "file_type": "csv",
+    "relative_url": "orders.csv.csv",
+    "folder_path": "capstone_data",
+    "file_name": "orders.csv"
+  },
+  {
+    "entity": "exchange_rates",
+    "file_type": "json",
+    "relative_url": "exchange_rates.json",
+    "folder_path": "capstone_data",
+    "file_name": "exchange_rates.json"
+  }
+]
