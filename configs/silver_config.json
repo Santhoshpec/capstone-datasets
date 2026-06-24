@@ -1,0 +1,62 @@
+[
+  {
+    "entity": "orders",
+
+    "casts": {
+      "OrderID": "int",
+      "CustomerID": "int",
+      "ProductID": "int",
+      "Quantity": "int",
+      "UnitPrice": "double",
+      "OrderDate": "date"
+    },
+
+    "rules": [
+      "CustomerID IS NOT NULL",
+      "ProductID IS NOT NULL",
+      "Quantity > 0",
+      "UnitPrice > 0"
+    ]
+  },
+
+  {
+    "entity": "customers",
+
+    "casts": {
+      "CustomerID": "int",
+      "LastUpdated": "timestamp"
+    },
+
+    "rules": [
+      "CustomerID IS NOT NULL",
+      "Email IS NOT NULL",
+      "LastUpdated IS NOT NULL"
+    ]
+  },
+
+  {
+    "entity": "products",
+
+    "casts": {
+      "ProductID": "int",
+      "CostPrice": "double"
+    },
+
+    "rules": [
+      "ProductID IS NOT NULL",
+      "CostPrice > 0"
+    ]
+  },
+
+  {
+    "entity": "exchange_rates",
+
+    "casts": {
+      "rates_exchange_rate": "double"
+    },
+
+    "rules": [
+      "rates_exchange_rate > 0"
+    ]
+  }
+]
