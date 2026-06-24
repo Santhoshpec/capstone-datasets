@@ -1,0 +1,29 @@
+[
+  {
+    "entity": "customers",
+    "business_key": "CustomerID",
+    "surrogate_key": "customer_sk",
+
+    "compare_columns": [
+      "FirstName",
+      "LastName",
+      "Email",
+      "Phone",
+      "City",
+      "State"
+    ]
+  },
+
+  {
+    "entity": "products",
+    "business_key": "ProductID",
+    "surrogate_key": "product_sk",
+
+    "compare_columns": [
+      "ProductName",
+      "Category",
+      "Brand",
+      "CostPrice"
+    ]
+  }
+]
