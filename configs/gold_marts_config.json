@@ -1,0 +1,50 @@
+[
+    {
+        "mart_name":"sales_by_category",
+
+        "fact_path":"gold/facts/fact_sales",
+
+        "dimension_path":"gold/dimensions/dim_products_scd",
+
+        "join_key":"product_sk",
+
+        "group_by":[
+            "Category"
+        ],
+
+        "target_path":"gold/marts/sales_by_category"
+    },
+
+    {
+        "mart_name":"sales_by_store",
+
+        "fact_path":"gold/facts/fact_sales",
+
+        "dimension_path":null,
+
+        "join_key":null,
+
+        "group_by":[
+            "StoreCode"
+        ],
+
+        "target_path":"gold/marts/sales_by_store"
+    },
+
+    {
+        "mart_name":"monthly_sales",
+
+        "fact_path":"gold/facts/fact_sales",
+
+        "dimension_path":"gold/dimensions/dim_date",
+
+        "join_key":"date_key",
+
+        "group_by":[
+            "year",
+            "month"
+        ],
+
+        "target_path":"gold/marts/monthly_sales"
+    }
+]
