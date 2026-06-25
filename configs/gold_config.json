@@ -1,23 +1,25 @@
 [
     {
-        "entity": "fact_sales",
+        "entity":"fact_sales",
 
-        "orders_path": "silver/orders",
+        "orders_path":"silver/orders",
 
-        "customer_dimension": "gold/dimensions/dim_customers_scd",
+        "customer_dimension":"gold/dimensions/dim_customers_scd",
 
-        "product_dimension": "gold/dimensions/dim_products_scd",
+        "product_dimension":"gold/dimensions/dim_products_scd",
 
-        "target_path": "gold/facts/fact_sales",
+        "date_dimension":"gold/dimensions/dim_date",
 
-        "customer_key": "CustomerID",
+        "target_path":"gold/facts/fact_sales",
 
-        "product_key": "ProductID",
+        "customer_key":"CustomerID",
 
-        "order_date": "OrderDate",
+        "product_key":"ProductID",
 
-        "quantity_column": "Quantity",
+        "date_column":"OrderDate",
 
-        "amount_column": "UnitPrice"
+        "quantity_column":"Quantity",
+
+        "price_column":"UnitPrice"
     }
 ]
