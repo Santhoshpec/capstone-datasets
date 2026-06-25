@@ -1,0 +1,17 @@
+gold_config = {
+
+    "fact_sales": {
+
+        "source_table":"capstone.silver.silver_orders",
+
+        "customer_dim":"capstone.gold.dim_customer_scd",
+
+        "product_dim":"capstone.gold.dim_product_scd",
+
+        "date_dim":"capstone.gold.dim_date",
+
+        "target_table":"capstone.gold.fact_sales"
+
+    }
+
+}
