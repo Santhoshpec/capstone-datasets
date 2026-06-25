@@ -1,17 +1,23 @@
-gold_config = {
+[
+    {
+        "entity": "fact_sales",
 
-    "fact_sales": {
+        "orders_path": "silver/orders",
 
-        "source_table":"capstone.silver.silver_orders",
+        "customer_dimension": "gold/dimensions/dim_customers_scd",
 
-        "customer_dim":"capstone.gold.dim_customer_scd",
+        "product_dimension": "gold/dimensions/dim_products_scd",
 
-        "product_dim":"capstone.gold.dim_product_scd",
+        "target_path": "gold/facts/fact_sales",
 
-        "date_dim":"capstone.gold.dim_date",
+        "customer_key": "CustomerID",
 
-        "target_table":"capstone.gold.fact_sales"
+        "product_key": "ProductID",
 
+        "order_date": "OrderDate",
+
+        "quantity_column": "Quantity",
+
+        "amount_column": "UnitPrice"
     }
-
-}
+]
